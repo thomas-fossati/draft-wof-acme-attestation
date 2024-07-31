@@ -9,18 +9,18 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Security"
+workgroup: "Automated Certificate Management Environment"
 keyword:
  - ACME
  - attestation
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Automated Certificate Management Environment"
+  type: "Working Group"
+  mail: "acme@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/acme/"
+  github: "thomas-fossati/draft-wof-acme-attestation"
+  latest: "https://thomas-fossati.github.io/draft-wof-acme-attestation/draft-wof-acme-attestation.html"
 
 author:
  -
@@ -30,7 +30,7 @@ author:
  -
     fullname: Mike Ounsworth
     organization: Entrust
-    email: mike.ounsworth@entrust.com 
+    email: mike.ounsworth@entrust.com
  -
     fullname: Thomas Fossati
     organization: Linaro
