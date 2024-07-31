@@ -27,9 +27,15 @@ author:
     fullname: Carl Wallace
     organization: Red Hound Software, Inc.
     email: carl@redhoundsoftware.com
- -
-    fullname: Mike Ounsworth
-    organization: Entrust
+  -
+    ins: M. Ounsworth
+    name: Mike Ounsworth
+    org: Entrust Limited
+    abbrev: Entrust
+    street: 2500 Solandt Road – Suite 100
+    city: Ottawa, Ontario
+    country: Canada
+    code: K2K 3G5
     email: mike.ounsworth@entrust.com
  -
     fullname: Thomas Fossati
